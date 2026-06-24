@@ -1,0 +1,5 @@
+moderngl>=5.10.0
+moderngl-window>=2.4.6
+numpy>=1.26.0
+Pillow>=10.4.0
+pygltflib>=1.16.2
